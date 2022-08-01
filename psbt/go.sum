@@ -1,0 +1,12 @@
+github.com/brronsuite/brond v0.0.0-20220729091639-3393ca5eb3f0 h1:UaI93pWK3Gg2zJO3dj+KFLlxgUfb6x7t0GDuLE5Tqno=
+github.com/brronsuite/brond v0.0.0-20220729091639-3393ca5eb3f0/go.mod h1:LgeAPRZbKJwupqdPd63/jV0CNypBWZ4PNC/oIwUmj3M=
+github.com/brronsuite/brond/btcec v0.0.0-20220729091639-3393ca5eb3f0 h1:93oqvJII5W0GV51DSKTF6mo2+4s1Xs+s/0ncTuuTWMw=
+github.com/brronsuite/brond/btcec v0.0.0-20220729091639-3393ca5eb3f0/go.mod h1:i9vR8Dq5gJaeQcWrZEGzF4ntL3BHN45bEHdHX5jl+0M=
+github.com/brronsuite/bronutil v0.0.0-20220729092247-e398907e40bf h1:m+6Y1r6lNy75crg4ZxXaarKeQv87gSI/0w414u4uBX4=
+github.com/brronsuite/bronutil v0.0.0-20220729092247-e398907e40bf/go.mod h1:XdY43vmIrVhrNXVIL+u43PmJQNr2rlZ2sFTCPZKgXgQ=
+github.com/btcsuite/btclog v0.0.0-20170628155309-84c8d2346e9f h1:bAs4lUbRJpnnkd9VhRV3jjAVU7DJVjMaK+IsvSeZvFo=
+github.com/btcsuite/btclog v0.0.0-20170628155309-84c8d2346e9f/go.mod h1:TdznJufoqS23FtqVCzL0ZqgP5MqXbb4fg/WgDys70nA=
+github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
+github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
+golang.org/x/crypto v0.0.0-20220722155217-630584e8d5aa h1:zuSxTR4o9y82ebqCUJYNGJbGPo6sKVl54f/TVDObg1c=
+golang.org/x/crypto v0.0.0-20220722155217-630584e8d5aa/go.mod h1:IxCIyHEi3zRg3s0A5j5BB6A9Jmi73HwBIUl50j+osU4=
